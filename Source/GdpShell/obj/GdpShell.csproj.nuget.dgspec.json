@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codes\\Csharp\\Gdp\\Source\\GdpShell\\GdpShell.csproj": {}
+    "C:\\Users\\czs\\Source\\Repos\\gdp\\Source\\GdpShell\\GdpShell.csproj": {}
   },
   "projects": {
-    "D:\\Codes\\Csharp\\Gdp\\Source\\Gdp.Core\\Gdp.Standard.csproj": {
+    "C:\\Users\\czs\\Source\\Repos\\gdp\\Source\\Gdp.Core\\Gdp.Standard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codes\\Csharp\\Gdp\\Source\\Gdp.Core\\Gdp.Standard.csproj",
+        "projectUniqueName": "C:\\Users\\czs\\Source\\Repos\\gdp\\Source\\Gdp.Core\\Gdp.Standard.csproj",
         "projectName": "Gdp.Standard",
-        "projectPath": "D:\\Codes\\Csharp\\Gdp\\Source\\Gdp.Core\\Gdp.Standard.csproj",
+        "projectPath": "C:\\Users\\czs\\Source\\Repos\\gdp\\Source\\Gdp.Core\\Gdp.Standard.csproj",
         "packagesPath": "C:\\Users\\czs\\.nuget\\packages\\",
-        "outputPath": "D:\\Codes\\Csharp\\Gdp\\Source\\Gdp.Core\\obj\\",
+        "outputPath": "C:\\Users\\czs\\Source\\Repos\\gdp\\Source\\Gdp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -59,18 +59,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Codes\\Csharp\\Gdp\\Source\\GdpShell\\GdpShell.csproj": {
+    "C:\\Users\\czs\\Source\\Repos\\gdp\\Source\\GdpShell\\GdpShell.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codes\\Csharp\\Gdp\\Source\\GdpShell\\GdpShell.csproj",
+        "projectUniqueName": "C:\\Users\\czs\\Source\\Repos\\gdp\\Source\\GdpShell\\GdpShell.csproj",
         "projectName": "gdp",
-        "projectPath": "D:\\Codes\\Csharp\\Gdp\\Source\\GdpShell\\GdpShell.csproj",
+        "projectPath": "C:\\Users\\czs\\Source\\Repos\\gdp\\Source\\GdpShell\\GdpShell.csproj",
         "packagesPath": "C:\\Users\\czs\\.nuget\\packages\\",
-        "outputPath": "D:\\Codes\\Csharp\\Gdp\\Source\\GdpShell\\obj\\",
+        "outputPath": "C:\\Users\\czs\\Source\\Repos\\gdp\\Source\\GdpShell\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -90,8 +90,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Codes\\Csharp\\Gdp\\Source\\Gdp.Core\\Gdp.Standard.csproj": {
-                "projectPath": "D:\\Codes\\Csharp\\Gdp\\Source\\Gdp.Core\\Gdp.Standard.csproj"
+              "C:\\Users\\czs\\Source\\Repos\\gdp\\Source\\Gdp.Core\\Gdp.Standard.csproj": {
+                "projectPath": "C:\\Users\\czs\\Source\\Repos\\gdp\\Source\\Gdp.Core\\Gdp.Standard.csproj"
               }
             }
           }
@@ -119,7 +119,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
